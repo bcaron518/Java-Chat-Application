@@ -42,6 +42,10 @@ This is a simple chat application built using Java sockets. It allows multiple c
 - Make sure there are no firewall restrictions blocking the port.
 - Check network settings if running the client on a different machine.
 
-## Licence
+## Contributing
 
-This project is open-source and available under the MIT License.
+If you'd like to contribute to this repository or improve the code examples, please feel free to open an issue or submit a pull request. Your contributions are welcome.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
